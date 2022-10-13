@@ -51,7 +51,7 @@ function agregarArticulo(artElegido){
     const cantidad= cantidadEl.valueAsNumber;
     let itemCarrito= carrito.find((item)=> item.id==artElegido.id);
     if(itemCarrito==undefined){
-        itemCarrito= new ItemCarrito(artElegido.id, artElegido.name,0,artElegido.price);
+        itemCarrito= new itemCarrito(artElegido.id, artElegido.name,0,artElegido.price);
         carrito.push(itemCarrito);
         
     }

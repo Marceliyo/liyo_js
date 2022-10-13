@@ -5,7 +5,7 @@
        "details":"Remera cuello redondo, color blanco",
        "icon":"👕",
        "type":"prenda",
-       "image":"./assets/img/illus/chicaDj.jpeg"
+       "image":"./assets/img/img/remeram.jpeg"
     },
     {
        "id":2,
@@ -14,7 +14,7 @@
        "details":"Gorra de 5 paneles",
        "icon":"🧢",
        "type":"accesorio",
-       "image":"./assets/img/illus/chicaDj.jpeg"
+       "image":"./assets/img/img/gorram.jpeg"
     },
     {
        "id":3,
@@ -23,7 +23,7 @@
        "details":"cuadro de Ilustración",
        "icon":"🖼 ",
        "type":"otros",
-       "image":"./assets/img/illus/chicaDj.jpeg"
+       "image":"./assets/img/img/cuadrom.jpeg"
     },
     {
        "id":4,
@@ -32,6 +32,6 @@
        "details":"Pin metalcio",
        "icon":"👾",
        "type":"otros",
-       "image":"./assets/img/illus/chicaDj.jpeg"
+       "image":"./assets/img/img/pinm.jpeg"
     }
  ]
